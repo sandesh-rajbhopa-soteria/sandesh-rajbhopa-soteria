@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandesh-rajbhopa-soteria
+- 👋 Hi, I’m @sandesh-rajbhopa
 - 👀 I’m interested in DevOps
 
 
